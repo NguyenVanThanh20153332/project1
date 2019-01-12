@@ -1,0 +1,13 @@
+﻿  object_detection_yolo.cpp
+g:\aussshit\aushit\aushit\object_detection_yolo.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+g:\aussshit\aushit\aushit\object_detection_yolo.cpp(102): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+g:\aussshit\aushit\aushit\object_detection_yolo.cpp(225): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  aushit.vcxproj -> G:\aussshit\aushit\x64\Debug\aushit.exe
